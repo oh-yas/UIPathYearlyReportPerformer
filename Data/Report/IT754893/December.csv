@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+455537,"Concierge Services",2017-12-11,142051,28410.2,170461,CAD
+429140,"Waste management services",2017-12-27,231420,46284,277704,CAD
+836557,"IT Support",2017-12-10,200769,40153.8,240923,USD
